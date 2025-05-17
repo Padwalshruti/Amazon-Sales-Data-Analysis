@@ -15,4 +15,4 @@ This project analyzes Amazon sales data across 76 countries and 12 product types
 ## Objective
 To deliver actionable insights that help improve sales strategy and operational efficiency.
 
-📄 **Find detailed analysis in the attached "Amazon Sales Analysis (Word file).**
+📄 **Find detailed analysis in the attached "Amazon Sales Analysis" (Word file).**
